@@ -1,0 +1,44 @@
+	''' Input Data ''' :-All calculations are done with US dollars.
+	Name: Priyanka Gnanasekaran
+	Class: CS 521 - Fall 1
+	Date:10/8/2020
+	Final Project - Home Expense & Retirement Calculator
+	
+Step1. Please enter your choice of calculation:(e.g m for monthly)
+
+	Bi-weekly = bw, Weekly = w,
+	Monthly = m, Semi-Monthly = sm:
+
+Input:m
+Other Input:bw, sm, w
+
+Step2. Please Enter your monthly income:
+Input:4990
+
+Step3.Type your expenses with spaces inbetween them:
+Input:700 200 90
+
+	Retirement calculations.
+Step4:Enter your name:
+Input: *name*
+
+Step5.Enter current saved amount for retirement:
+Input:28000
+
+Step6.Enter your current age:
+Input:30
+
+Step7.Enter your desired retirement age:
+Input:67
+
+Step8.Enter yearly contribution:
+Input:1000
+
+Step9.Enter the average annual return:
+Input:1.07
+Other Input:1.05
+More information:1.07 = 7%
+
+Step10.Do you want to review your file: Type Yes or No:
+Input: yes
+Other Input:no
